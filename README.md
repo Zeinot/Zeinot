@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeinot , my real name is Omar
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning fullstack web-dev
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me zeinotgaming@gmail.com
 
